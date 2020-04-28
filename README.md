@@ -16,4 +16,4 @@ Task 2: Develop a Python 3 script that reads the log data into a MongoDB databas
 
 Task 3: Create a Python web application with Flask to display the top 10 (i.e., most frequently played) Songs and the top 10 Artists for each week on a web page. You will need to use MongoDB's Aggregation framework to complete this task You can also find a quick tutorial here. 
 
-Deliverables: Please submit your code and screenshots of the web page in a single .zip file. Also, include the URL (or public IP address) and the name of the corresponding EC2 instance in the submission description.  
+  
