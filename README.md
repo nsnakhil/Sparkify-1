@@ -11,7 +11,7 @@ If you want to be able to connect to MongoDB remotely (like, from your laptop), 
 1)Edit the inbound rules in your EC2 instance's security group to allow connections on port 27017
 2)Edit /etc/mongod.conf to comment out bindIp: 127.0.0.1 under # network interfaces in order to allow mongod to accept remote connections
 
-### Task 2: Developing a Python 3 script that reads the log data into a MongoDB database. 
+### Task 2: Developing a Python 3 script that reads the log data into a MongoDB database using Pymongo. 
 
 
 ### Task 3: Creating a Python web application with Flask to display the top 10 (i.e., most frequently played) Songs and the top 10 Artists for each week.
